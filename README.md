@@ -1,12 +1,12 @@
 - [X] Créer un projet React
 - [X] Créer un projet Git
 - [X] Nettoyer le projet React des fichiers inutiles
-- [ ] Créer les bon dossier pour correctement ranger le projet
+- [X] Créer les bon dossier pour correctement ranger le projet
 - [X] Installer bootstrap
 - [X] Installer le router
 - [X] Créer le composant CreateComment.js
 - [X] Créer le composant DeleteComment.js
 - [X] Créer le composant Home.js
 - [X] Créer le composant NotFound.js
-- [ ] Créer le composant Navigation.js
-- [ ] Créer le composant App.js
+- [X] Créer le composant Navigation.js
+- [X] Créer le composant App.js
